@@ -1,10 +1,11 @@
+# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.100.0, The Walpurgis 8th Event, Added Hornet E.G.O Meursault (Currently Bugged) & Faint Aroma & Solitude E.G.O Ryoshu
+### Meursault Untranslated battle Voicelines aren't playing and currently broken, and Ryoshu is missing 5 Untranslated Voiceines that aren't playing, Please someone email PM about this issue... it sucks...
+
 # Regarding Youtube Channel
 ## Hey everyone, just letting you know that I won't be able to upload videos for while, Life's gotten pretty busy...
 I recommend for you to check out these youtube channels instead! (Although they don't highlight voicelines, I'll come back one day and make a whole one pack video for the skills and voicelines on my missed Identities & enemies.)
 [Natucal](https://www.youtube.com/@natucal1)
 [Nobu](https://www.youtube.com/@Nobu123-h7h)
-
-# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.98.0, PM has Updated how Speech Bubbles Work, Added Lobotomy E.G.O Lamp Gregor & The Pinky Apprentice Sinclair!
 
 ### This mod adds speech bubbles for all characters with battle voicelines! (Including Untranslated Lines!)
 

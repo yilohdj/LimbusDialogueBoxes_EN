@@ -1,11 +1,22 @@
-# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.100.0, The Walpurgis 8th Event, Added Hornet E.G.O Meursault (Currently Bugged) & Faint Aroma & Solitude E.G.O Ryoshu
-### Meursault Untranslated battle Voicelines aren't playing and currently broken, and Ryoshu is missing 5 Untranslated Voiceines that aren't playing, Please someone email PM about this issue... it sucks...
+# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.101.0, LCE Check-up Event, LCE E.G.O::AEDD Gregor Added!
+- I’ve made a new installer program that you can download so you can easily install the mod and update it to the latest version. [LimbusSpeechBubbleInstaller.exe](https://github.com/NotherWael/LimbusDialogueBoxes_EN/raw/refs/heads/main/LimbusSpeechBubbleInstaller.exe)
+- Fixed Wildhunt's two other Kill Voicelines not appearing (PM why the hell did the voicefile ID change???)
+- Added The Middle Apperentice Ishmael's S2 VL (Though each part of it is a seperate voicefile so it may not show "One, two, Three!" speech bubbles fully, and they may be off-screen too.).
+- Added LCE E.G.O::AEDD Gregor.
+- FA&S Ryoshu Voicelines got fixed so she has some new lines now!
+- Fixed Index DonQ S3-1 Line.
+- Fixed Hanafuda Ishmael S3-2 Speech Bubble timings.
+- Fixed The Pinky Nursefather's S3 Speech Bubble timings (PM why no fix).
+- Translation fixes...
+
+# About the Façade Projection (Skin System)
+## Unfixable on my Part, PM needs to overwrite the Speech Bubble Data for the base Identity, since it only uses the original Identity's Speech Bubble. 
+
+https://github.com/user-attachments/assets/e9ac0fff-8305-47cb-9119-ee1757231154
+
 
 # Regarding Youtube Channel
-## Hey everyone, just letting you know that I won't be able to upload videos for while, Life's gotten pretty busy...
-I recommend for you to check out these youtube channels instead! (Although they don't highlight voicelines, I'll come back one day and make a whole one pack video for the skills and voicelines on my missed Identities & enemies.)
-[Natucal](https://www.youtube.com/@natucal1)
-[Nobu](https://www.youtube.com/@Nobu123-h7h)
+## Videos soon hopefully.
 
 ### This mod adds speech bubbles for all characters with battle voicelines! (Including Untranslated Lines!)
 
@@ -18,7 +29,16 @@ I recommend for you to check out these youtube channels instead! (Although they 
 ### ~~Whenever a new UPDATE happens, PLEASE DISABLE the mod!!! and wait for a new update on this repository. (or else you would face issues like [softlocking](https://www.youtube.com/watch?v=nHrCFfdBMAA))~~
 ### As of 13th Nov, 2025, You now need to not update on every single new localization content update. Now you ONLY need to update when there are new identities so you can add Speech Bubbles on them. (New Story Enemies too, cause they might not have their speech bubble by PM since this replaces the Speech Bubble file.)
 ### Some users faced problems when their PC Language wasn't set to English, it will cause errors in-game like these [Issues](https://www.youtube.com/watch?v=nHrCFfdBMAA)
-## Installation - PC
+# Installation - PC
+## Using the Installer:
+Report any issues when using this installer since this is the first version!
+1. Download [LimbusSpeechBubbleInstaller.exe](https://github.com/NotherWael/LimbusDialogueBoxes_EN/raw/refs/heads/main/LimbusSpeechBubbleInstaller.exe) and open it.
+2. It should automatically detect the game folder, if it doesn't, It should alert you to browse it to where your game folder directory is and select `LimbusCompany_Data` folder.
+3. Click on [Install / Update Mod]
+4. The mod should now be installed and updated to latest!
+5. You can also use the installer to easily update the mod instead of having to download again and again from the GitHub repository.
+6. Don't forget the Launch Setup below, if installing for the first-time.
+## Using the Original Method:
 1. Click **Code** → **Download ZIP** on this GitHub repository.
 2. Open or Extract the ZIP file.
 3. Navigate to your Limbus Company folder, and open the 'LimbusCompany_Data' folder
@@ -26,17 +46,16 @@ Ex.`C:\Program Files (x86)\Steam\steamapps\common\Limbus Company\LimbusCompany_D
       <img src="Screenshot/Browselocalfiless.png" alt="Browselocalfiless"/>
       <img src="Screenshot/datass.png" alt="datass"/>
 
-5. Drag the "Lang" folder from the ZIP file into the "LimbusCompany_Data" folder.
+4. Drag the "Lang" folder from the ZIP file into the "LimbusCompany_Data" folder.
       <img src="Screenshot/Likethis.png" alt="Likethis"/>
-
-5. Launch the game, click on "Select Custom Language," choose **SpeechDialogBoxesEN - NotherWael**, and restart the game.  
-   - If it’s already selected, you can skip this step.
-   <img src="Screenshot/SelectTL.png" alt="SelectTL"/>
-6. Enjoy the mod!
-
 - To update, Delete `SpeechDialogBoxesEN - NotherWael` in the `Lang` folder, and put in the new one.
   (This will remove your custom fonts, so add them back)
 - To disable this mod, simply remove the Lang Folder and restart the game, or Select "-" in "Select Custom Langauge" at the start menu, and restart the game.
+## Launch Setup:
+1. Launch the game, click on "Select Custom Language," choose **SpeechDialogBoxesEN - NotherWael**, and restart the game.  
+   - If it’s already selected, you can skip this step.
+   <img src="Screenshot/SelectTL.png" alt="SelectTL"/>
+2. Enjoy the mod!
 
 ## Installation - Mobile (ANDROID ONLY)
 ### Note: This method directly replaces the speech bubble localization file, and is not a custom language mod since it's not implemented on mobile, Do it on your own risk!

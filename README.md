@@ -1,13 +1,7 @@
-# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.101.0, LCE Check-up Event, LCE E.G.O::AEDD Gregor Added!
-- I’ve made a new installer program that you can download so you can easily install the mod and update it to the latest version. [LimbusSpeechBubbleInstaller.exe](https://github.com/NotherWael/LimbusDialogueBoxes_EN/raw/refs/heads/main/LimbusSpeechBubbleInstaller.exe)
-- Fixed Wildhunt's two other Kill Voicelines not appearing (PM why the hell did the voicefile ID change???)
-- Added The Middle Apperentice Ishmael's S2 VL (Though each part of it is a seperate voicefile so it may not show "One, two, Three!" speech bubbles fully, and they may be off-screen too.).
-- Added LCE E.G.O::AEDD Gregor.
-- FA&S Ryoshu Voicelines got fixed so she has some new lines now!
-- Fixed Index DonQ S3-1 Line.
-- Fixed Hanafuda Ishmael S3-2 Speech Bubble timings.
-- Fixed The Pinky Nursefather's S3 Speech Bubble timings (PM why no fix).
-- Translation fixes...
+# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.102.0, Added The Ring Apperentice Faust & The Ring Nursefather Hong Lu!
+- I’ve made a new installer program that you can download so you can easily install the mod and update it to the latest version. [LimbusSpeechBubbleENInstaller.exe](https://github.com/NotherWael/LimbusDialogueBoxes_EN/raw/refs/heads/main/LimbusSpeechBubbleENInstaller.exe) (If Windows says it's not safe, tell it to S.T.F.U. and Run Anyway)
+
+- Added Speech Bubbles to The Ring Apperentice Faust & Nursefather Hong Lu
 
 # About the Façade Projection (Skin System)
 ## Unfixable on my Part, PM needs to overwrite the Speech Bubble Data for the base Identity, since it only uses the original Identity's Speech Bubble. 
@@ -31,13 +25,13 @@ https://github.com/user-attachments/assets/e9ac0fff-8305-47cb-9119-ee1757231154
 ### Some users faced problems when their PC Language wasn't set to English, it will cause errors in-game like these [Issues](https://www.youtube.com/watch?v=nHrCFfdBMAA)
 # Installation - PC
 ## Using the Installer:
-Report any issues when using this installer since this is the first version!
-1. Download [LimbusSpeechBubbleInstaller.exe](https://github.com/NotherWael/LimbusDialogueBoxes_EN/raw/refs/heads/main/LimbusSpeechBubbleInstaller.exe) and open it.
-2. It should automatically detect the game folder, if it doesn't, It should alert you to browse it to where your game folder directory is and select `LimbusCompany_Data` folder.
-3. Click on [Install / Update Mod]
-4. The mod should now be installed and updated to latest!
-5. You can also use the installer to easily update the mod instead of having to download again and again from the GitHub repository.
-6. Don't forget the Launch Setup below, if installing for the first-time.
+Report any issues when using this installer!
+1. Download [LimbusSpeechBubbleENInstaller.exe](https://github.com/NotherWael/LimbusDialogueBoxes_EN/raw/refs/heads/main/LimbusSpeechBubbleENInstaller.exe) and open it. (If Windows says it's not safe, tell it to S.T.F.U. and Run Anyway)
+3. It should automatically detect the game folder, if it doesn't, You need to browse it to where your game folder directory is and select `LimbusCompany_Data` folder.
+4. Click on [Install / Update Mod]
+5. The mod should now be installed and updated to latest!
+6. You can also use the installer to easily update the mod instead of having to download again and again from the GitHub repository.
+7. Don't forget the Launch Setup below, if installing for the first-time.
 ## Using the Original Method:
 1. Click **Code** → **Download ZIP** on this GitHub repository.
 2. Open or Extract the ZIP file.

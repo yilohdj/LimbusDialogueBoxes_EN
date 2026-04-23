@@ -6,8 +6,8 @@
   ### v1.103.0
   - Added Speech Bubbles to The Ring Fauvist Student Meursault & The Ring Fauvist Docent Rodion.
   - Added a Speech Bubble to W Corp Hong Lu's S3 (Ah-ha~, felt weird for him to say that with no speech bubble.)
-  - Fixed Installer not updating correctly, update to v1.5 [here](https://github.com/NotherWael/LimbusSpeechBubbleEN_Installer/archive/refs/heads/main.zip
-)
+  - Fixed Installer not updating correctly, update to v1.5 [here](https://github.com/NotherWael/LimbusSpeechBubbleEN_Installer/archive/refs/heads/main.zip)
+  - Rewrote the Installer (Again) in C# to finally stop it getting flagged as a virus. [here](https://github.com/NotherWael/LimbusSpeechBubbleEN_Installer/archive/refs/heads/main.zip)
 
 
   ### v1.102.0
@@ -52,9 +52,13 @@
 # Installation - PC
 ## Using the Installer:
 1. Download [LimbusSpeechBubbleEN_Installer-main.zip](https://github.com/NotherWael/LimbusSpeechBubbleEN_Installer/archive/refs/heads/main.zip) and extract it.
-2. Make SURE that the `_internal` folder is next to the `LimbusSpeechBubbleENInstaller.exe` file or it will NOT open.
-      <img width="423" height="190" alt="image" src="https://github.com/user-attachments/assets/43ccf32c-ca06-4183-8094-b9d7b98c524e"/>
+2. Make SURE that the `.dll` files are next to the `LimbusSpeechBubbleENInstaller.exe` file or it will NOT open.
+    <img width="256" height="198" alt="image" src="https://github.com/user-attachments/assets/9e84b5dd-d3cb-4bee-b90d-3974f47252f7" />
+
 3. Now open the `LimbusSpeechBubbleENInstaller.exe` file It should automatically detect the game folder, if it doesn't, You need to browse it to where your game folder directory is and select `LimbusCompany_Data` folder.
+  - If you see this, click `More Info` and `Run Anyway` (It's cause its not a signed app from a known publisher which costs money.)
+    <img width="531" height="191" alt="image" src="https://github.com/user-attachments/assets/8861a243-b115-4d49-8f03-9342a50340de" />
+    <img width="529" height="491" alt="image" src="https://github.com/user-attachments/assets/0affab0b-3ec7-4624-95b2-46a8a4b96744" />
 4. Click on `[Install / Update Mod]`
 5. The mod should now be installed and updated to latest!
 6. You can also use the installer to easily update the mod instead of having to download again and again from the GitHub repository.
